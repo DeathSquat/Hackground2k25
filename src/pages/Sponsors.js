@@ -107,12 +107,12 @@ function Sponsors() {
       tier: "Gold",
       description: "Drinks Partner",
     },
-    {
-      name: "Interview Buddy",
-      logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJrquzHwOxN0bUKnchqkQIy7QhkvzUftsDb70tbF-TbzdwohwOLaZukMkKY6CgJacQ45M&usqp=CAU",
-      tier: "Silver",
-      description: "Ace Interviews with Confidence",
-    },
+    // {
+    //   name: "Interview Buddy",
+    //   logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJrquzHwOxN0bUKnchqkQIy7QhkvzUftsDb70tbF-TbzdwohwOLaZukMkKY6CgJacQ45M&usqp=CAU",
+    //   tier: "Silver",
+    //   description: "Ace Interviews with Confidence",
+    // },
     {
       name: "Physicswallah",
       logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA1ijYJKiY82YdiwN_8p-Ok7VnokZ7hmw4A6czeO_QWMrEa_aAocj0cwe5ExbO0UsLtXk&usqp=CAU",

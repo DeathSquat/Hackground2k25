@@ -99,14 +99,14 @@ const HeaderLine = styled(Box)({
 });
 
 const gamingCards = [
-  {
-    mode: "GameDev",
-    rank: "🎮 Game On",
-    title: "Play & Inspire",
-    desc: "Design games that are fun and meaningful — from learning to problem-solving, build experiences that engage.",
-    image:
-      "https://res.cloudinary.com/djer7pmxt/image/upload/v1753117058/rkhgsxbtv7fqlzq6vlom_iqveo6.webp",
-  },
+  // {
+  //   mode: "GameDev",
+  //   rank: "🎮 Game On",
+  //   title: "Play & Inspire",
+  //   desc: "Design games that are fun and meaningful — from learning to problem-solving, build experiences that engage.",
+  //   image:
+  //     "https://res.cloudinary.com/djer7pmxt/image/upload/v1753117058/rkhgsxbtv7fqlzq6vlom_iqveo6.webp",
+  // },
   {
     mode: "AI/ML",
     rank: "🤖 AI for Everything",
@@ -153,8 +153,8 @@ const gamingCards = [
   {
     mode: "Special Track",
     rank: "🚀 New Track Alert!",
-    title: "Hackground × Duality AI – Space Station Hackathon 🛰",
-    desc: "Train AI models using Falcon digital twin data to detect Toolbox, Oxygen Tank & Fire Extinguisher in a simulated space station! Optimize YOLOv8, document your workflow & grab exciting prizes. Prize Pool: $200",
+    title: "Hackground × Duality AI",
+    desc: "Train AI models using Falcon digital twin data to detect Toolbox, Oxygen Tank & Fire Extinguisher in a simulated space station! Optimize YOLOv8, document your workflow & grab exciting prizes.",
     image:
       "https://blog.unipin.com/en/wp-content/uploads/sites/2/2024/07/bgmi-best-name-696x348.jpg", 
   },
