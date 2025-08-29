@@ -304,16 +304,14 @@ const HackathonSections = () => {
         "https://res.cloudinary.com/djer7pmxt/image/upload/v1754318032/Tanisha_Bansal_mzcyw3.jpg",
       linkedin: "https://www.linkedin.com/in/tanishabansal110902?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     },
-  
-   
-    {
-      id: 4,
-      name: "Yash Chatrath",
-      role: "Mentor",
-      avatar:
-        "https://res.cloudinary.com/djer7pmxt/image/upload/v1754318033/Yash_Chatrath_hkieoz.jpg",
-      linkedin: "http://linkedin.com/in/chatrath-yash",
-    },
+    // {
+    //   id: 4,
+    //   name: "Yash Chatrath",
+    //   role: "Mentor",
+    //   avatar:
+    //     "https://res.cloudinary.com/djer7pmxt/image/upload/v1754318033/Yash_Chatrath_hkieoz.jpg",
+    //   linkedin: "http://linkedin.com/in/chatrath-yash",
+    // },
     {
       id: 5,
       name: "Kamal Kashyap",
